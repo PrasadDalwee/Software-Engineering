@@ -58,7 +58,6 @@ SRS contains:
    3. Data Flow Diagrams (DFD)
    4. Class Diagram (CD)
    5. State Diagram (SD)
-
 </br></br></br>
 
 
