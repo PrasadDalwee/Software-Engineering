@@ -25,18 +25,39 @@ The overall system is divided into two separate parts:
   <br><br>
 
 2. <b>Analysis Engine</b>: Analysis engine  is used for analyzing data on main server and operated by data analysts. Analysis reports are generated automatically as soon as data analysts specify the desired parameters.
+   
    ![](2021-12-18-17-15-09.png)
    
    + Fig: Use case diagram for Analysis Website <br><br>
 
    ![](2021-12-18-16-59-52.png)
+   + Fig: Preview of our dashboard for analysis engine<br>
+<hr></br></br></br>
 
-</br></br></br>
+## State Overview:
+Following state diagram explains the high level connectivity of different states throughout the system.
+![](2021-12-22-10-52-40.png)
++ Fig: State Diagram<br>
+<hr></br></br></br>
 
-## Implementation Overview:
+## More Details:
+For more details please refer SRS attached in this repository.
 
-</br></br></br>
-
+SRS contains:
+1. Detailed descriptions regarding:
+   1. User Interactions
+   2. Core functionalities
+   3. Data Flow
+   4. Designing and testing approach
+   5. Proposed Interface
+   6. Functional and non-functional requirements.<br><br>
+   
+2. UML Diagrams:
+   1. Use Case Diagram (UCD)
+   2. Functional Decomposition Diagrams (FDD)
+   3. Data Flow Diagrams (DFD)
+   4. Class Diagram (CD)
+   5. State Diagram (SD)
 
 </br></br></br>
 
